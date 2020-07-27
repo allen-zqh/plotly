@@ -1,5 +1,5 @@
-# PythonPlotlyCodes
-"Python data analysis: Plotly-based dynamic visualization drawing" source code content
+# E-book
+"Python data analysis: Plotly-based dynamic visualization drawing" -- E-book
 
 Zhao Qiuhan, in the summer vacation, Jul 9, 2018.
 
@@ -9,7 +9,7 @@ Zhao Qiuhan, in the summer vacation, Jul 9, 2018.
 	This page makes it easier to browse the drawing effects of each chapter in the book. You can download all codes from: https://github.com/allen-zqh/plotly , or follow the author: https://github.com/sunshe35/PythonPlotlyCodes .
 
 # How to use
-	You can download this project, and use the "图书目录.html"(in chinese, it means the book content), in order to quickly retrieve the drawing effect of the pictures in each chapter.
+　　You can download this project, and use the "图书目录.html"(in chinese, it means the book content), in order to quickly retrieve the drawing effect of the pictures in each chapter.
 
 
 
